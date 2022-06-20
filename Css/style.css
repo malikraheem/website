@@ -3,18 +3,25 @@ body{
     background-size: cover;
 }
 
-h2{
+h2, p{
     color: blue;
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
     border: 5px solid rgba(255,176,170,0.5);
     cursor: pointer;
 }
 p{
     color: brown;
+    text-decoration: underline;
 }
 li{
     list-style: none;
     display: inline-block;
     color: black;
+}
+.web{
+    background-color:rgba(0,0,255,0.4);
+}
+#id{
+    background-color: grey;
 }
