@@ -1,4 +1,20 @@
-h1{
-    color:red;
+body{
+    background-image: url("../images/one.jpg");
+    background-size: cover;
+}
 
+h2{
+    color: blue;
+    font-size: 60px;
+    text-align: center;
+    border: 5px solid rgba(255,176,170,0.5);
+    cursor: pointer;
+}
+p{
+    color: brown;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    color: black;
 }
