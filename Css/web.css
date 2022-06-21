@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Arial Rounded MT Bold";
+}
+.class1 {
+    background-color: darkred;
+    color: teal;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    border-right: 2px solid grey;
+    width: 1200px;
+    justify-content: center;
+    margin-left: 75px;;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    border-right: 2px solid grey;
+    padding: 8px 8px 8px 8px;
+
+}
+footer{
+    clear: both;
+    font-size: 100px;
+    color: darkslateblue;
+    text-align: center;
+}
+span{
+    font-size: 50px;
+    color: olive;
+}
+.about{
+    font-size: 40px;
+    text-align: center;
+    background-color: bisque;
+    color: red;
+    border:4px solid darkblue;
+    background-image: url("../images/one.jpg");
+    background-size: cover;
+}
+h3{
+    font-size: 50px;
+    color: lightslategrey;
+    font-style: italic;
+    background-color: darkblue;
+    width: 170px;
+}
+.cricket{
+    font-style: italic;
+    color: darkorchid;
+    font-size: 30px;
+}
+img{
+    float: left;
+}
+.cricket2{
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    width: 800px;
+    height: 400px;
+    margin-left: 200px;
+    padding-top: 2px;
+    background-image: url("../images/cric2.jpg");
+    background-size: cover;
+}
